@@ -1,0 +1,46 @@
+{
+  "product": [
+    {
+      "name": "áo cadigan 111",
+      "category": "Phones",
+      "price": "15000",
+      "createAt": "2024-07-26",
+      "id": 17
+    },
+    {
+      "name": "áo mùa thu111",
+      "category": "Other",
+      "price": "10",
+      "createAt": "2024-07-26",
+      "id": 18
+    },
+    {
+      "name": "fdgfgf",
+      "category": "Quần áo mùa hạ",
+      "price": "10",
+      "createAt": "2024-07-26",
+      "id": 19
+    },
+    {
+      "name": "bluetooth",
+      "category": "Other",
+      "price": "1.4",
+      "createAt": "2024-07-27",
+      "id": 20
+    },
+    {
+      "name": "bluetooth",
+      "category": "Other",
+      "price": "6",
+      "createAt": "2024-07-27",
+      "id": 21
+    },
+    {
+      "name": "aefđ",
+      "category": "Quần áo mùa thu",
+      "price": "13",
+      "createAt": "2024-07-28",
+      "id": 22
+    }
+  ]
+}

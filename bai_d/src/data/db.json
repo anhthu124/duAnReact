@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Harry Potter 1",
+      "amount": 2500,
+      "publicationDate": "2024-07-05",
+      "category": {
+        "id": "1",
+        "name": "Detective"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Naruto",
+      "amount": 200,
+      "publicationDate": "2024-07-03",
+      "category": {
+        "id": "2",
+        "name": "Horror"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Conan",
+      "amount": 300,
+      "publicationDate": "2024-07-04",
+      "category": {
+        "id": "3",
+        "name": "Science Fiction"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Dragon Ball",
+      "amount": 2000,
+      "publicationDate": "2024-07-01",
+      "category": {
+        "id": "4",
+        "name": "History"
+      }
+    },
+    {
+      "id": "5",
+      "title": "One Piece",
+      "amount": 200,
+      "publicationDate": "2024-02-07",
+      "category": {
+        "id": "1",
+        "name": "Detective"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Doraemon",
+      "amount": 100,
+      "publicationDate": "2024-07-05",
+      "category": {
+        "id": "3",
+        "name": "Science Fiction"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Harry Potter 2",
+      "amount": 2000,
+      "publicationDate": "2024-07-19",
+      "category": {
+        "id": "4",
+        "name": "History"
+      }
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Detective"
+    },
+    {
+      "id": "2",
+      "name": "Horror"
+    },
+    {
+      "id": "3",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "4",
+      "name": "History"
+    }
+  ]
+}
